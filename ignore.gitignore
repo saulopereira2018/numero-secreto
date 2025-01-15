@@ -8,8 +8,9 @@
 
 
 
-
-
+-------------------
+mudar o nome do commit
+git commit --amend -m ""
 ---------
 inicializar repositório git
 git init
