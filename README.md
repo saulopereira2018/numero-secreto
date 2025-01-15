@@ -3,11 +3,11 @@
         <div class="col-md-12">
             <div class="card">
                  <div class="card-body">
-                    @if (session('status'))
+                 
                         <div class="alert alert-success" role="alert">
                             {{ session('status') }}
                         </div>
-                    @endif
+                  
             <b>
                 O presente sistema web tem por objetivo a conclusão do curso de
                 Mestrado em Computação Aplicada da UFMS - Início 2022
@@ -44,7 +44,7 @@
                             </b>
                             <br><br>
                             <td></td>
-                            <img src="{{ asset('img/saulo.jpg') }}" />
+                            <img src="http://localhost/surdos/public/img/saulo.jpg">
                             <td></td>
                         </tr>
                         <tr>
