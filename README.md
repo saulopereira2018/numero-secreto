@@ -3,11 +3,7 @@
         <div class="col-md-12">
             <div class="card">
                  <div class="card-body">
-                O presente sistema web tem por objetivo a conclusão do curso de
-                Mestrado em Computação Aplicada da UFMS - Início 2022
 
-                <br><hr>
-                TÍTULO DO TRABALHO - Sistema de apoio ao ensino de teoria musical para pessoas surdas, usando técnicas de gamificação.
             <hr>
                 <div>
                     <table>
