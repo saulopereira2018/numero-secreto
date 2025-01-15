@@ -36,11 +36,12 @@ clonar
 git clone <https://link-com-o-nome-do-repositório>
 ----------
 git branch para criar, listar e excluir as branches.
-git branch <nome-da-branch>
+git branch main
 --------------------
 
 
 --------------------
+abrir main
 git branch -M main
 -----
 baixar commits para repositório local

@@ -8,8 +8,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "numero-secreto": "file:"
-  }
+  },
+  "description": ""
 }
