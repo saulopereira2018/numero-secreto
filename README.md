@@ -3,12 +3,6 @@
         <div class="col-md-12">
             <div class="card">
                  <div class="card-body">
-                 
-                        <div class="alert alert-success" role="alert">
-                            {{ session('status') }}
-                        </div>
-                  
-            <b>
                 O presente sistema web tem por objetivo a conclusão do curso de
                 Mestrado em Computação Aplicada da UFMS - Início 2022
 
@@ -20,9 +14,7 @@
                         <tr>
                             <b>
                                 Saulo Pereira da Silva  <br>
-                                - Mestrando em Computação Aplicada;
-                                <br>
-                                - Cursando Pós Graduação Lato Sensu em Robótica Educacional no IFMS;
+                                - Pós Graduação Lato Sensu em Robótica Educacional no IFMS;
                                 <br>
                                 - Tecnólogo em Redes de Computadores;
                                 <br>
@@ -53,7 +45,6 @@
 
 
                 </div>
-
 
                 </div>
             </div>
